@@ -1,0 +1,1 @@
+The funkin bot collects data about the text of messages in all channels in which it exists, that is: it does not save the author, but only the content, and only the text content
